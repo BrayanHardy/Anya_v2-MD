@@ -22,9 +22,9 @@ global.lApiKey = {// if this API key get expired then please go to https://api.l
 }
 
 
-global.botname = "Queen Anya" 
+global.botname = "KINGHARDY" 
 global.author = "Enter Author Name Here"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
+global.packname = "KING✯HARDY"  
 global.myweb = "Enter Your Any Website Profile Link Here"
 global.footer = "©\t" + "Enter Your Watermark Here"
 global.prefa = ['-'] // single prefix
@@ -34,8 +34,8 @@ global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
 global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM 💝*`
 
 
-global.ownername = "Enter Owner Name Here"    
-global.ownernumber = ["918811074852"]
+global.ownername = "BRAYANHARDY"    
+global.ownernumber = ["2250708779997"]
 global.ytname = "YT: Enter Your Channel Name Here"
 global.continent = "Asia" // your continent name 
 global.region = "Enter Your Country Name Here"
